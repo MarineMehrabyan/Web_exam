@@ -1,2 +1,2 @@
 # Web_exam
-The page is responsive only for laptop and phone :)
+The page is responsive only for laptop(full page) and iphone :)
